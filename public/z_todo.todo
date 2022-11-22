@@ -1,0 +1,23 @@
+TODO:
+    ✔ show/hide  - left right @done(22-10-07 17:59)
+    ✔ light between intro and home @done(22-11-12 15:18)
+    ✔ link to github in details @done(22-11-22 09:42)
+    ✔ animate nav bar @done(22-11-02 09:13)
+    ✔ performance @done(22-11-22 09:42)
+    ✔ arrows nav svg @done(22-10-31 15:25)
+    ✔ timing animation @done(22-11-22 09:42)
+    ✔ export animation @done(22-11-19 17:36)
+    ✔ texture index when changing @done(22-10-31 15:25)
+    ✔ animation paneau avec vague @done(22-11-22 09:42)
+    ✔ animation on back button @done(22-10-31 15:25)
+    ✔ size of image of textures 4096*4096 @done(22-11-19 17:36)
+    ✔ event on scrol and touch @done(22-11-19 17:36)
+    ✔ change on back works when not first panel @done(22-11-02 09:13)
+    ☐ lost context management
+
+
+DESIGN:
+    ☐ Font
+    ☐ Color
+    
+
